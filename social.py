@@ -169,8 +169,7 @@ def showFollowers(user):
 def about():
     info('Version:      1.0.11')
     info('Author:       ~dustin')
-    info('Source:       https://github.com/0xdstn/tilde-social')
-    info('More info:    https://tilde.town/~dustin/projects/tilde-social')
+    info('Source:       https://github.com/dustindikes/tilde-social')
 
 def usage():
     print('Usage: timeline [command]')
